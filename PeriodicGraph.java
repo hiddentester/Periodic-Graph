@@ -1,7 +1,7 @@
 /****************************************
-	File Name:		PeriodicGraph.java
-	Name:				hiddentester
-	Version:			1.0.161105
+	File Name:	PeriodicGraph.java
+	Name:		hiddentester
+	Version:	1.0.161105
 	Description:	This program runs code.
  ****************************************/
 
