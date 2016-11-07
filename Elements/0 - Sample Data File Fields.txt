@@ -1,0 +1,6 @@
+Xelement (Name)
+X (Symbol)
+2 (Group)
+1 (Period)
+1 (Atomic Radius)
+0 (Ionization Energy)
